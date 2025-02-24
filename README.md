@@ -1,6 +1,6 @@
 ## Olá, Eu sou a Ingrid Lemos Caetano
 
-Sou estudante do 5° semestre do curso Análise e Desenvolvimento de Sistemas na Fatec Zona Sul.
+Sou estudante do 6° semestre do curso Análise e Desenvolvimento de Sistemas na Fatec Zona Sul.
 
  <div>
    <a href="https://github.com/ingridlemoscaetano">
