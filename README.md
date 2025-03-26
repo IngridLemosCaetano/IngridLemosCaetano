@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF91F3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF91F3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ingrid+Lemos+Caetano;I+study+analysis+and+systems+development+at+Fatec;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF91F3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ingrid+Lemos+Caetano;I+study+systems+analysis+and+development+at+Fatec;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
  <div> 
    <a href="https://github.com/ingridlemoscaetano">
