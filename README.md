@@ -39,6 +39,20 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ##
+
+### Badges 42 School:
+![Libft](https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png)
+![GNL](https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png)
+![ft_printf](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png)
+![Born2BeRoot](https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png)
+![Pipex](https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png)
+![So_Long](https://github.com/ayogun/42-project-badges/blob/main/badges/so_longm.png)
+![Push_Swap](https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png)
+![Philosophers](https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png)
+![Minishell](https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png)
+![NetPractice](https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticee.png)
+![Cub3D](https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png)
+
 <div align="center">  
   <a href="https://www.linkedin.com/in/ingrid-lemos-caetano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
